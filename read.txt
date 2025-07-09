@@ -1,0 +1,10 @@
+GET : /books/orders
+POST : /books/orders
+
+DELETE : /books
+PUT : /books
+POST : /books
+GET : /books
+
+POST : /books/register
+POST : /books/login

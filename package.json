@@ -1,0 +1,23 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "Book store Backend side",
+  "main": "network.js",
+  "scripts": {
+    "server": "nodemon network.js"
+  },
+  "author": "Najmiddin Abdurahmonov",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "morgan": "^1.10.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
